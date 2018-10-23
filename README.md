@@ -1,10 +1,10 @@
 # Tab Layout untuk page view 
 digunakan untuk view page untuk slide windows
 
-  TabLayout tabLayout = ...;
-  tabLayout.addTab (tabLayout.newTab (). setText ("Tab 1"));
-  tabLayout.addTab (tabLayout.newTab (). setText ("Tab 2"));
-  tabLayout.addTab (tabLayout.newTab (). setText ("Tab 3"));
+ - TabLayout tabLayout = ...;
+ - tabLayout.addTab (tabLayout.newTab (). setText ("Tab 1"));
+ - tabLayout.addTab (tabLayout.newTab (). setText ("Tab 2"));
+ - tabLayout.addTab (tabLayout.newTab (). setText ("Tab 3"));
  
 Anda harus mengatur pendengar melalui setOnTabSelectedListener (OnTabSelectedListener) untuk diberi tahu ketika status pilihan tab telah diubah.
 Anda juga dapat menambahkan item ke TabLayout di tata letak Anda melalui penggunaan TabItem
