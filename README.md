@@ -7,8 +7,10 @@ digunakan untuk view page untuk slide windows
  - tabLayout.addTab (tabLayout.newTab (). setText ("Tab 3"));</br>
 </p> 
 Anda harus mengatur pendengar melalui setOnTabSelectedListener (OnTabSelectedListener) untuk diberi tahu ketika status pilihan tab telah diubah.</br></br></br>
-Anda juga dapat menambahkan item ke TabLayout di tata letak Anda melalui penggunaan TabItem
+Anda juga dapat menambahkan item ke TabLayout di tata letak Anda melalui penggunaan TabItem </br>
+<center>
   <img src="https://media.giphy.com/media/lYf4omdatRBno2oGXL/giphy.gif"  />
+  </center>
   
   
 
