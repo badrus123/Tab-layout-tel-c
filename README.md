@@ -8,7 +8,7 @@ digunakan untuk view page untuk slide windows
 </p> 
 Anda harus mengatur pendengar melalui setOnTabSelectedListener (OnTabSelectedListener) untuk diberi tahu ketika status pilihan tab telah diubah.</br></br></br>
 Anda juga dapat menambahkan item ke TabLayout di tata letak Anda melalui penggunaan TabItem
-  ![](name-of-giphy.gif)
+  ![](layout.gif)
   
   
 
